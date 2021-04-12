@@ -81,7 +81,7 @@ This components provide either a file-upload dropzone for users to upload their 
 ![image](https://user-images.githubusercontent.com/71994152/114346325-e3561a00-9b28-11eb-994f-d00c16fa041f.png)
 
 #### 7. Click [Show] for the Seceret Accesss Key and copy and paste them into the .env file.
-    7a. Copy and paste the your URL of your bucket into th REACT_APP_S3_URL as well.
+    7a. Copy and paste the your URL of your bucket into the REACT_APP_S3_URL as well.
 
 ![image](https://user-images.githubusercontent.com/71994152/114347034-f7e6e200-9b29-11eb-9af4-1bf6412147c2.png)
 
